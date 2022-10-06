@@ -1,0 +1,46 @@
+.myBG {
+  height: 100vh;
+  background: url("../assets/bg/bg1.png");
+  background-size: cover;
+}
+
+.intro {
+  height: 300px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 4px;
+}
+
+.hewan {
+  height: auto;
+  background: url("../assets/bg/bg2.png");
+  background-size: cover;
+}
+
+.makanan {
+  height: auto;
+  background: url("../assets/bg/bg3.png");
+  background-size: cover;
+}
+
+.hewanImage {
+  height: auto;
+  background-color: black;
+  margin: 6px;
+  padding: 6px;
+  border-radius: 4px;
+}
+
+.Image {
+  height: 500px;
+}
+.hewanWrapper {
+}
